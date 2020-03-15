@@ -52,8 +52,8 @@ for (let i = 1; i < 13; i++) {
 for(let i = 5; i < 18; i++) {
   console.log(`${i}`);
 
-  if (i == 11) {
-    console.log("Мальчик, тебе 11. Иди гуляй");
+  if (i == 10) {
+    console.log("Мальчик, тебе 10. Иди гуляй");
     break;
   }
 }
