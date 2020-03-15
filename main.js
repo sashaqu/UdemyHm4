@@ -87,5 +87,4 @@ function chooseOptExpenses() {
 }
 
 chooseOptExpenses();
-console.log(appData.optionalExpenses);
 console.log("appData:" , appData);
